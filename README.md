@@ -47,5 +47,5 @@ I'm a backend engineer looking to relocate to Atlanta, GA
 
 ### :woman_technologist: Projects:
 
-* :money_with_wings:[Ecommerce Website](https://github.com/logantillman/ecom)
+* :money_with_wings: [Ecommerce Website](https://github.com/logantillman/ecom)
 * :dependabot: [CS:GO Case Coinflip Discord Bot](https://github.com/logantillman/phillip-discord-bot)
