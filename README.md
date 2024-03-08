@@ -17,7 +17,7 @@
 
 ### :brain: About Me:
 
-I'm a backend engineer looking to relocate to Atlanta, GA
+I'm a backend engineer in Atlanta, GA
 
 * 🔭 I'm currently working on an e-commerce website for my portfolio - [ecom](https://github.com/logantillman/ecom)!
 * :weight_lifting: I enjoy weight lifting, and taking my dog on hikes :evergreen_tree: :dog2:
