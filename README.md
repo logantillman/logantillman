@@ -20,7 +20,7 @@
 I'm a backend engineer in Atlanta, GA
 
 * 🔭 I'm currently working on an e-commerce website for my portfolio - [ecom](https://github.com/logantillman/ecom)!
-* :weight_lifting: I enjoy weight lifting, and taking my dog on hikes :evergreen_tree: :dog2:
+* :weight_lifting: I enjoy weight lifting, and taking my dog on long walks :evergreen_tree: :dog2:
 * :open_book: I'm reading the _A Song of Ice and Fire_ series :ice_cube: :fire:
 * ⚡ Obligatory fun fact: I've gone skydiving
 * :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-logantillman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/logantillman/)
